@@ -10,4 +10,7 @@ public class Welcomer{
 	public String sayStatus() {
 		return "Hello! My status is Good";
 	}
+	public String sayJoke() {
+		return "Vegetarian - that's an old Indian word meaning lousy hunter";
+	}
 }
